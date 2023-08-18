@@ -1,0 +1,17 @@
+[
+  {
+    "meal": "breakfast",
+    "time": "07:30am - 09:30am",
+    "cost": 40
+  },
+  {
+    "meal": "lunch",
+    "time": "12:30pm - 02:30pm",
+    "cost": 60
+  },
+  {
+    "meal": "dinner",
+    "time": "07:30pm - 09:30pm",
+    "cost": 60
+  }
+]

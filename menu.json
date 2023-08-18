@@ -1,0 +1,44 @@
+[
+  {
+    "day": "Monday",
+    "breakfast": "Tea/Coffee/Milk, Poha + Matar Curry",
+    "lunch": "Roti + Soyabean Chilly + Suji Kheer (Lentil Dumpling Crumble)",
+    "dinner": "Rice + Roti, Rajma, Sambar, Dahi Booondi, Papad/Primes, Alu seasonal"
+  },
+  {
+    "day": "Tuesday",
+    "breakfast": "Tea/Coffee/Milk, Idli + Sambar + Chutney",
+    "lunch": "Roti + Mushroom Masala / Chilly Bhaja",
+    "dinner": "Tea/Coffee/Milk, Bread Omelette/Veg Sandwich + Rice + Roti, Moong Dal/Sambar, Bhindi/Drumstick Aloo Curry, Aloo + Bitter gourd chips"
+  },
+  {
+    "day": "Wednesday",
+    "breakfast": "Rice + Roti, Chicken/Paneer Curry, Arhar Dal, Salad, Papad/Primes",
+    "lunch": "Roti + Veg/Egg Tadka + Gulab Jamun/Rasagulla Seasonal fruit",
+    "dinner": "Rice + Roti, Egg Curry/Navaratna Korma/Seasonal Curry, e.g., Cauliflower, Parwal, Bhaja"
+  },
+  {
+    "day": "Thursday",
+    "breakfast": "Tea/Coffee/Milk, Upma + Matar Curry",
+    "lunch": "Chole Bhature + Curd + Achaar Bitter gourd chips",
+    "dinner": "Tea/Coffee/Milk, Bread + Butter/Jam + Boiled Roti + Matar Paneer/ Chicken Kasa + Vermicelli"
+  },
+  {
+    "day": "Friday",
+    "breakfast": "Rice + Roti, Arhar Dal, Fish Curry/Palak Paneer, Papad/Primes eggs/Banana Kheer/Dhokla",
+    "lunch": "Rice + Roti, Egg Curry/Navaratna Korma/Seasonal Curry, e.g.,",
+    "dinner": "Tea/Coffee/Milk, Vada + Matar Curry Roti + Santula/Manchurian + Bhindi Fry"
+  },
+  {
+    "day": "Saturday",
+    "breakfast": "Tea/Coffee/Milk, Uttapam/Masala Chakuli +",
+    "lunch": "Chicken/Veg Biriyani, Raita, Gulab Jamun Roti + Chilly Chicken/Paneer + Ice-cream Sambar Chutney",
+    "dinner": ""
+  },
+  {
+    "day": "Sunday",
+    "breakfast": "",
+    "lunch": "",
+    "dinner": ""
+  }
+]
