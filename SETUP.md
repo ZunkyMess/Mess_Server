@@ -7,7 +7,7 @@ Create a `config.env` file with the below content and place it inside the `confi
 PORT = 4000
 
 # For redirection after authentication
-FRONTEND = http://localhost:4000
+FRONTEND = http://localhost:3000
 
 # MongoDB url
 MONGO_URI = mongodb+srv://{user}:{pass}@xxxx.xxxx.mongodb.net/mess
